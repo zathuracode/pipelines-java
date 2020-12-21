@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/bitatodevops/pipelines-java/_apis/build/status/zathuracode.pipelines-java?branchName=master)](https://dev.azure.com/bitatodevops/pipelines-java/_build/latest?definitionId=9&branchName=master)
 
 # Contributing
 
